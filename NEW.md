@@ -1,0 +1,1 @@
+Laravel's starter kits provide backend and frontend authentication scaffolding for your new Laravel application.
